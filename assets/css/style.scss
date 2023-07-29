@@ -1,0 +1,13 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+body, #main_content_wrap {
+  background-color: #fff !important;
+}
+
+#main_content_wrap {
+  border-bottom: none !important;
+}
+//#212121
